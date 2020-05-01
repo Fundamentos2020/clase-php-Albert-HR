@@ -57,6 +57,10 @@
 
     $aux = new Aux();
 
+    $aux->x = "valor x";
+
+    var_dump($aux);
+
 
 
 
